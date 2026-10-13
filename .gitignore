@@ -30,6 +30,9 @@ venv/
 ENV/
 env/
 
+# Data downloads
+data/
+
 # IDE and OS
 .idea/
 .vscode/
